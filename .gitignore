@@ -1,0 +1,51 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+logs/
+
+# Outputs / checkpoints
+outputs/
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+
+# Data / archives
+data/
+datasets/
+*.zip
+*.tar
+*.tar.gz
+
+# macOS
+.DS_Store
+
+# Project-specific folders
+26S_AI536_NE450/
+
+# Folders starting with step
+step*/
+
+# Folders starting with submit
+submit*/
+
+# Shell scripts
+*.sh
+
+# PDF files
+*.pdf
+EOF
