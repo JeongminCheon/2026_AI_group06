@@ -43,9 +43,6 @@ step*/
 # Folders starting with submit
 submit*/
 
-# Shell scripts
-*.sh
-
 # PDF files
 *.pdf
 EOF
